@@ -15,3 +15,9 @@ setTimeout (function()
 {
 console.log("Welcome");
 },1500);
+
+//Anonymous functions as self Executing function
+(function(){
+    console.log("Hii");
+})
+(); 
