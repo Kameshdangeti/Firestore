@@ -1,15 +1,17 @@
 
 **Table Of Contents**
 
-**Objective**: The guide below will help us install firestore emulators locally and run the cloud functions. 
+**Objective**: The guide below show the sample codes of the functions that are commonly used in the Firstore. 
 
-1. # Firebase Installation Steps
-2. # Functions Installation Steps
-3. # Running Cloud Functions Steps
-4. # Testing Cloud Functions Steps
-5. # Common Mistakes
-6. # Important commands to remember
-
+# 1.Anonymus Functions.
+==>Basic_Anonymous_Functions.js
+   ->it shows the basic code for writing the anonymous Function.
+==>Anonymous_Functions_With_Arguments.js
+   ->it shows the code for anonymous function using arguments.
+==>Anonymous_Function_Using_SelfExecuting_Function.js
+   ->it shows the code of anonymous function with self executing function.
+==>Anonymous_Function_Using_SetTimeOut.js
+   ->it shows the code of anonymous function using the setTimeOut.
 
 
 
