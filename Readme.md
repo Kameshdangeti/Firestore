@@ -13,6 +13,15 @@
 ## d.Anonymous_Function_Using_SetTimeOut.js
    ->it shows the code of anonymous function using the setTimeOut.
 
+# 2.Arrow Functions.
+## a.Arrow_Functions_With_Paramters.js  
+   ->it shows the code using arrow functions with parameters. 
+## b.Arrow_Functions_Without_Parameters.js
+   ->it shows the code using arrow functions without parameters.
+## c.Arrow_Functions_With_Default_Parameters.js
+   ->it shows the code using arrow functions with default parameters.
+   
+
 
 
 
