@@ -20,6 +20,8 @@
    ->it shows the code using arrow functions without parameters.
 ## c.Arrow_Functions_With_Default_Parameters.js
    ->it shows the code using arrow functions with default parameters.
+## d.ArrowFunctions_With_Return_Statements.js
+   ->it shows the code using arrow functions with return statements.
 
 # 3.CallBack Functions.
 ## a.BasicCallback-Function.js
