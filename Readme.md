@@ -50,7 +50,8 @@
    ->code using await/async as the generator.
 ## j.Try_Catch_Finally_Functions.js
    ->code using Try/Catch/Final functions.
-   
+## k.PromiseFunction_Using_all().js
+   ->It shows about the code which is used with all().   
 
   
 
