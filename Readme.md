@@ -61,7 +61,9 @@
 ## n.Promise-Inside-Function.js
    ->Code shows promises inside a function
 ## o.Promise_Function_With_Multiple_Resolve.js
-   ->the code shows promises function using Multiple Resolves 
+   ->the code shows promises function using Multiple Resolves.
+## p.Promise_Function_With_Return.js
+   ->The code using promise function to product of 2 no.
 
   
 
