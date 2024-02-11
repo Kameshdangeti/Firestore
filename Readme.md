@@ -53,7 +53,15 @@
 ## j.Try_Catch_Finally_Functions.js
    ->code using Try/Catch/Final functions.
 ## k.PromiseFunction_Using_all().js
-   ->It shows about the code which is used with all().   
+   ->It shows about the code which is used with all().  
+## l.Async-await_Function_Using_SetTimeOut.js
+   ->It shows the code which uses the SetTimeOut function.
+## m.Promise-Function_Using_Settimeout.js
+   ->code shows promise function using SetTimeOut.
+## n.Promise-Inside-Function.js
+   ->Code shows promises inside a function
+## o.Promise_Function_With_Multiple_Resolve.js
+   ->the code shows promises function using Multiple Resolves 
 
   
 
