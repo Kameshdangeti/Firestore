@@ -64,6 +64,8 @@
    ->the code shows promises function using Multiple Resolves.
 ## p.Promise_Function_With_Return.js
    ->The code using promise function to product of 2 no.
+## q.Promise_Function_Race-Function.js
+   ->The code using using race condition in promise function
 
   
 
