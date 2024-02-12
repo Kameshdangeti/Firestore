@@ -30,6 +30,8 @@
    ->it shows the code for calling the callback function using foreach loop.
 ## c.CallBack_UsingReturnStatement.js
    ->it shows the code for calling the callback function uing return statement.
+## d.Perfectsquare_Using_CallBack.js
+   ->This code shows the perfect square using CallBack Functions.  
 
 # 4.Promise Functions.
 ## a.Basic_Promise_Object.js
@@ -76,8 +78,7 @@
    ->This code shows the promise for webservice call.
 ## v.Using_Promisify().js
    ->This code shows the usage promisify().
-## w.Perfectsquare_Using_CallBack.js
-   ->This code shows the perfect square using CallBack Functions.   
+ 
 
 
 
