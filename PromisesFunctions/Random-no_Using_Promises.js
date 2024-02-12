@@ -1,5 +1,5 @@
 const myPromise = new Promise((resolve, reject) => {
-    const randomNum = Math.floor(Math.random(2) * 10);
+    const randomNum = Math.floor(Math.random() * 10);
     if (randomNum % 2 === 0) 
     {
       resolve(randomNum);
