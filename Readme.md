@@ -72,6 +72,8 @@
    ->This code shows about random no in promises function which is even or odd.
 ## t.ChainingPromise_Function.js
    ->This code shows the chaining of promise function.
+## u.Promise-For-webservice-call.js
+   ->This code shows the promise for webservice call. 
      
 
 
