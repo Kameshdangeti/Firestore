@@ -73,8 +73,11 @@
 ## t.ChainingPromise_Function.js
    ->This code shows the chaining of promise function.
 ## u.Promise-For-webservice-call.js
-   ->This code shows the promise for webservice call. 
-     
+   ->This code shows the promise for webservice call.
+## v.Using_Promisify().js
+   ->This code shows the usage promisify().
+## w.Perfectsquare_Using_CallBack.js
+   ->This code shows the perfect square using CallBack Functions.   
 
 
 
