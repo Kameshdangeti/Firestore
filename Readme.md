@@ -66,8 +66,13 @@
    ->The code using promise function to product of 2 no.
 ## q.Promise_Function_Race-Function.js
    ->The code using using race condition in promise function
-
-  
+## r.Async-Await_Wrapped_on_promises.js
+   ->The code shows the async/await function wrapped upon the promises.
+## s.Random-no_Using_Promises.js
+   ->This code shows about random no in promises function which is even or odd.
+## t.ChainingPromise_Function.js
+   ->This code shows the chaining of promise function.
+     
 
 
 
