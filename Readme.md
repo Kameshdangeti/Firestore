@@ -88,6 +88,7 @@
    ->it shows the code for promise function using allSettled().
 ## a1.Calling-With-Resolvers().js
    ->it shows the code calling with resolvers.
-
+## b1.promise-function-using-any().js
+   ->it shows the code using any function.
 
 
