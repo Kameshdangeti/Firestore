@@ -84,8 +84,10 @@
    ->it shows the api code by usig promise function.
 ## y.Promise_ajax.Request.js
    ->it shows the code for promise function for ajax request. 
-
-
+## z.Promise-using-allSettled().js
+   ->it shows the code for promise function using allSettled().
+## a1.Calling-With-Resolvers().js
+   ->it shows the code calling with resolvers.
 
 
 
