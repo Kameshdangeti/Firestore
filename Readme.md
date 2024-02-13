@@ -82,7 +82,8 @@
    ->The code shows how to find a user using promises.
 ## x.Promise-ApI.js
    ->it shows the api code by usig promise function.
-
+## y.Promise_ajax.Request.js
+   ->it shows the code for promise function for ajax request. 
 
 
 
