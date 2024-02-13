@@ -78,7 +78,11 @@
    ->This code shows the promise for webservice call.
 ## v.Using_Promisify().js
    ->This code shows the usage promisify().
- 
+## w.Finding_User.js
+   ->The code shows how to find a user using promises.
+## x.Promise-ApI.js
+   ->it shows the api code by usig promise function.
+
 
 
 
